@@ -10,6 +10,14 @@
             "logoURI":"https://coin.top/production/logo/SUNLogo.178d4636.png"
         },
         {
+            "symbol":"CLVC
+            "address":"TJpNW3LBwDEKkssNirYSo3Bo25QEFVDLnr",
+            "chainId":1,
+            "decimals":6,
+            "name":"Calvin Coin",
+            "logoURI":"https://coin.top/production/upload/logo/TJpNW3LBwDEKkssNirYSo3Bo25QEFVDLnr.png"
+        },
+        {
             "symbol":"BTC",
             "address":"TN3W4H6rK2ce4vX9YnFQHwKENnHjoxb3m9",
             "chainId":1,
